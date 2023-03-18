@@ -1,0 +1,23 @@
+.drugInfo {
+    max-width: 300px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 3rem;
+    
+    
+  }
+  
+  .drugInfo img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 1rem;
+  }
+  
+  .drugInfo h2 {
+    margin-bottom: 1rem;
+  }
+
+  .drugInfo p {
+    margin-top: 1rem;
+    
+  }
